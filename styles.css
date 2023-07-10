@@ -88,3 +88,14 @@ header{
   }
   
 }
+.copyright {
+  
+
+  border-top: 1px solid gray;
+  background-color: black;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 20px;
+  color: #be9509;
+}
